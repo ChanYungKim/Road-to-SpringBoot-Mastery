@@ -1,5 +1,5 @@
 /FirstProject/
-*.idea/
+*.idea
 *.DS_Store
 
 HELP.md
@@ -22,7 +22,6 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
-.idea
 *.iws
 *.iml
 *.ipr
@@ -39,3 +38,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+
+*/.idea/*
+FirstProject/.idea/misc.xml
